@@ -1,0 +1,156 @@
+{
+  "productList": [
+    {
+      "Name": "Shahzeb",
+      "Quantity": 34,
+      "Price": 3848,
+      "id": 1
+    },
+    {
+      "Name": "Hussaain",
+      "Quantity": 343,
+      "Price": 456,
+      "id": 3
+    },
+    {
+      "Name": "Anwar",
+      "Quantity": 34,
+      "Price": 4554,
+      "id": 4
+    },
+    {
+      "Name": "Lion",
+      "Quantity": 45,
+      "Price": 4434,
+      "id": 5
+    },
+    {
+      "Name": "Monkey",
+      "Quantity": 343,
+      "Price": 34345,
+      "id": 6
+    },
+    {
+      "Name": "Zebra",
+      "Quantity": 2,
+      "Price": 44,
+      "id": 7
+    },
+    {
+      "Name": "Dog",
+      "Quantity": 5,
+      "Price": 100,
+      "id": 8
+    },
+    {
+      "Name": "Shahzeb",
+      "Quantity": 45,
+      "Price": 3848,
+      "id": 9
+    },
+    {
+      "Name": "Shahzeb",
+      "Quantity": 56,
+      "Price": 3848,
+      "id": 10
+    },
+    {
+      "Name": "shahzeb",
+      "Quantity": 2,
+      "Price": 43,
+      "id": 11
+    }
+  ],
+  "userData": [
+    {
+      "Username": "Shahzeb",
+      "Email": "shahzebhassan259@gmail.com",
+      "Address": "city jhelum",
+      "id": 1
+    },
+    {
+      "Username": "Hussain",
+      "Email": "Hussanin@gmail.com",
+      "Address": "peshawar,Pakistan",
+      "id": 2
+    },
+    {
+      "Username": "Shahzebb",
+      "Email": "shahzebhassan259@gmail.com",
+      "Address": "city jhelum",
+      "id": 3
+    },
+    {
+      "Username": "Hussainn",
+      "Email": "Hussanin@gmail.com",
+      "Address": "peshawar,Pakistan",
+      "id": 4
+    },
+    {
+      "Username": "Shahzeba",
+      "Email": "shahzebhassan259@gmail.com",
+      "Address": "city jhelum",
+      "id": 5
+    },
+    {
+      "Username": "Hussaina",
+      "Email": "Hussanin@gmail.com",
+      "Address": "peshawar,Pakistan",
+      "id": 6
+    },
+    {
+      "Username": "shahzeb",
+      "Email": "shahzeb@gmail.com",
+      "Address": "lahore",
+      "id": 7
+    }
+  ],
+  "medData": [
+    {
+      "Medicinename": "Shahzeb",
+      "Brand": 34,
+      "Address": 3848,
+      "id": 1
+    },
+    {
+      "Medicinename": "panadol",
+      "Brand": "A pharma",
+      "Address": "lahore,pak",
+      "id": 2
+    },
+    {
+      "Medicinename": "Shahzeb",
+      "Brand": 34,
+      "Address": 3848,
+      "id": 3
+    },
+    {
+      "Medicinename": "panadol",
+      "Brand": "A pharma",
+      "Address": "lahore,pak",
+      "id": 4
+    },
+    {
+      "Medicinename": "Shahzeb",
+      "Brand": 34,
+      "Address": 3848,
+      "id": 5
+    },
+    {
+      "Medicinename": "panadol",
+      "Brand": "A pharma",
+      "Address": "lahore,pak",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
